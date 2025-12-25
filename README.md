@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on improving my coding knowledge.<br>👯 I’m looking to collaborate on program developments such as Web Development.<br>⚡ Fun fact: Coding's what i do and trust me I'm good at it.
 
 
 ## 🌐 Socials:
